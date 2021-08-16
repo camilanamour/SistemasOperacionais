@@ -4,5 +4,5 @@ Esse repositório será dedicado aos estudos sobre os sistemas operacionais, rea
 
 - Memória e Desempenho;
 - Processos;
-- Threads e Deadlocks.
-
+- Threads e Semáforos;
+- Sistema de arquivos.
